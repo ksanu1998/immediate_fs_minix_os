@@ -14,4 +14,4 @@ Following files have been modified to implement immediate files: <br>
 /minix/servers/vfs/open.c <br>
 /minix/lib/libc/gen/fslib.c <br>
 
-Please refer to the report for getting an overview of the changes made.
+Please refer to the <a href="https://github.com/ksanu1998/immediate_fs_minix_os/blob/master/170030035_170030038_Lab7_Report.pdf">report</a> for getting an overview of the changes made.
