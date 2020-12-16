@@ -1,5 +1,5 @@
 # Immediate Files in Minix OS
-
+[![HitCount](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/immediate_fs_minix_os.svg)](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/immediate_fs_minix_os)<br>
 This lab assignment was done in a pair as a part of CS 314 Operating Systems Lab course during the Spring Semester of 2019-20.<br>
 The repository contains a script run.sh along with the changed files, which is supposed to be run in the system running Minix OS. It copies these files to the appropriate places in /usr/src/ directory containing the source code for Minix OS and then builds the system.<br>
 
